@@ -1,0 +1,13 @@
+/* Effective stylesheet produced by snapshot save */
+a, a:active { color: rgb(60, 162, 162); text-decoration: none; }
+a:hover { color: rgb(33, 90, 109); text-decoration: none; }
+body { background-color: rgb(45, 45, 45); color: rgb(255, 255, 255); font-size: 16px; margin: 0px auto; width: 900px; }
+h2 { font-size: 20px; }
+li { margin-bottom: 6px; }
+div#header { padding: 12px 0px; text-align: center; }
+div#logo a { color: rgb(232, 186, 63); /* float: left; */ font-size: 24px; font-weight: bold; text-decoration: none; }
+/* div#header #navigation { text-align: right; }
+div#header #navigation a { font-size: 18px; font-weight: bold; margin-left: 12px; text-decoration: none; text-transform: uppercase; } */
+div#footer { color: rgb(150, 150, 150); font-size: 12px; padding: 12px 0px; text-align: center; }
+div#content { background-color: rgb(59, 59, 59); padding: 10px 30px; }
+input[type="button"]:not(:disabled) { cursor: pointer; }
