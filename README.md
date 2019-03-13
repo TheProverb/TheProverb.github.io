@@ -1,1 +1,1 @@
-blackcoinmore.org
+https://blackcoinmore.org
