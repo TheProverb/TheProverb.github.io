@@ -9,8 +9,8 @@ div#logo a { /*color: rgb(232, 186, 63);  float: left; */ font-size: 24px; font-
 /* div#header #navigation { text-align: right; }
 div#header #navigation a { font-size: 18px; font-weight: bold; margin-left: 12px; text-decoration: none; text-transform: uppercase; } */
 div#footer { color: rgb(150, 150, 150); font-size: 12px; padding-bottom: 10px; padding-left: 30px; padding-right: 30px; padding-top: 10px; text-align: center; }
-div#content { background-color: rgb(59, 59, 59); padding-bottom: 5px; padding-left: 30px; padding-right: 30px; padding-top: 10px; }
+div#content { background-color: rgb(59, 59, 59); padding-bottom: 1px; padding-left: 30px; padding-right: 30px; padding-top: 10px; }
 div#content img.logo { float: right; margin: 10px; width: 150px; height: 150px; }
 div#content h2 small { font-size: 14px; }
-div#links { background-color: rgb(59, 59, 59); padding-bottom: 10px; padding-left: 30px; padding-right: 30px; padding-top: 5px; }
+div#links { background-color: rgb(59, 59, 59); padding-bottom: 10px; padding-left: 30px; padding-right: 30px; padding-top: 1px; }
 input[type="button"]:not(:disabled) { cursor: pointer; }
