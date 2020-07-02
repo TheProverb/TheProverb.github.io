@@ -1,1 +1,1 @@
-https://blackcoinmore.org
+https://theproverb.github.io/
